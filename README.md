@@ -12,7 +12,7 @@
 | **Author** | Dr. Syuaib Aiman Amir Kamarudin |
 | **Degree** | DrPH — Universiti Sains Malaysia |
 | **Department** | Community Medicine, School of Medical Sciences, USM |
-| **Supervisor** | Dr Afiq Izzudin A. Rahim , Prof. Dr. Aziah Daud , Dr Shawalludin Husin|
+| **Supervisor** | Dr Afiq Izzudin A. Rahim,Prof. Dr. Aziah Daud, Dr Shawaludin Husin |
 | **JEPeM Code** | USM/JEPeM/KK/26010129 |
 | **Ethics approval** | Granted 6th May 2026 — valid until 5th May 2027 |
 | **Data source** | MySMART-OH (OH Digital Solution Sdn Bhd + DOSH Malaysia) |
