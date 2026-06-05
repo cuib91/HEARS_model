@@ -49,7 +49,7 @@
 
 ## SHAP Feature Importance
 
-| Rank (Gini) | Rank (SHAP, High risk) | Predictor | SHAP |value| (High) |
+| Rank (Gini) | Rank (SHAP, High risk) | Predictor | SHAP value (High) |
 |---|---|---|---|
 | 1 | 6 | Age | 0.085 |
 | 2 | **1** | Noise LEX | **2.796** |
